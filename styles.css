@@ -326,6 +326,7 @@ footer{
 #section2 a{
     display: block;
     text-decoration: none;
+    text-align: center;
 }
 /* 
     TO DO: add styles to both links in this section that will:
