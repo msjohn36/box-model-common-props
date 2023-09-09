@@ -389,6 +389,7 @@ footer{
     background-color: var(--teal-rgba);
     border:4px dashed var(--dk-gray);
     margin: 16px 60px 32px 8px;
+    padding: 32px 8px 16px 60px;
 }
 
  /* For the div wrapped around that paragraph to show the space its taking up within its container */
@@ -405,7 +406,8 @@ footer{
         - add the small box shadow, using the variable in the root
 */
 #section2 a:first-of-type:hover{
-
+    background-color: var(--dk-blue);
+    color: var(--white);
 }
 
 #section2 a:last-of-type:hover{
