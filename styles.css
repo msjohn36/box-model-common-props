@@ -328,6 +328,8 @@ footer{
     text-decoration: none;
     text-align: center;
     font-size: 1.1rem;
+    font-weight: bold;
+    width: 50%;
 }
 /* 
     TO DO: add styles to both links in this section that will:
