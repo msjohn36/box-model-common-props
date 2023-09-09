@@ -408,6 +408,8 @@ footer{
 #section2 a:first-of-type:hover{
     background-color: var(--dk-blue);
     color: var(--white);
+    border-color: var(--lt-blue);
+    box-shadow: var(--box-shadow-sm);
 }
 
 #section2 a:last-of-type:hover{
